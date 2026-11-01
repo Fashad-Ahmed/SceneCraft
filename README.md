@@ -11,6 +11,9 @@
 </div>
 
 > **Research prototype (v0.2).** SceneCraft explores a focused question: **Can deterministic geometry checks improve the spatial validity of edits proposed by a language model?** This is an engineering MVP and exploratory research direction, not a trained 3D foundation model or a published research result.
+>
+> <img width="1499" height="799" alt="image" src="https://github.com/user-attachments/assets/d834dee9-6cf9-4f56-ae64-13ad52da3810" />
+
 
 ## Overview
 
