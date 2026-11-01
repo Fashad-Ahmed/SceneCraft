@@ -187,12 +187,3 @@ Measure:
 
 SceneCraft is a personal exploratory project at the intersection of **agentic graphics, spatial reasoning, and controllable 3D interaction**. The longer-term goal is to investigate how language-guided visual creation systems can combine flexible model-driven planning with grounded geometric constraints.
 
-## Author
-
-**Fashad Ahmed Siddique**  
-MEng Artificial Intelligence — University of Bologna  
-[GitHub](https://github.com/Fashad-Ahmed) · [LinkedIn](https://www.linkedin.com/in/fashad-ahmed-siddique-285a79207/)
-
-## License
-
-_Choose and add a LICENSE file before describing the repository as open source under a specific license._
